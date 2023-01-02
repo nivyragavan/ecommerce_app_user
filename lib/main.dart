@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'User App',
+      title: 'Ecommerce User App',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
